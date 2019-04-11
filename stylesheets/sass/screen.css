@@ -67,7 +67,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: block;
 }
 
-/* line 10, ../../sass/sass/screen.scss */
+/*Colours*/
+/*fFonts*/
+/* line 14, ../../sass/sass/screen.scss */
 .paragraph {
-  background-color: pink;
+  font-family: "EB Garamond", serif;
+  font-size: 22px;
+  width: 550px;
 }

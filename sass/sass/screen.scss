@@ -5,8 +5,14 @@
 
 @import "compass/reset";
 
+/*Colours*/
 $primaryColor: pink;
 
+/*fFonts*/
+$mainFont:'EB Garamond', serif;
+
 .paragraph{
-    background-color: $primaryColor;
+    font-family: $mainFont;
+    font-size: 22px;
+    width: 550px;
 }
